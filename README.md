@@ -36,6 +36,14 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=harshasilva&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harshasilva&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshasilva&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshasilva&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="GitHub Activity Graph" />
+</div>
 
 ---
 
