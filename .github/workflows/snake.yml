@@ -18,7 +18,14 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
+    # Needs permissions to write to the repository
+    permissions:
+      contents: write
+      
     steps:
+      # Checkout the repository first
+      - uses: actions/checkout@v4
+      
       # Generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
