@@ -1,4 +1,6 @@
-# Hi there, I'm Harsha! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8A2BE2,00FFFF&height=200&section=header&text=Hi%20there%20I'm%20Harsha%20%F0%9F%91%BB&fontSize=50&fontAlignY=40&animation=fadeIn" alt="Header Banner" width="100%" />
+</div>
 
 <h3 align="center">A passionate developer crafting beautiful digital experiences</h3>
 
